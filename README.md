@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This project implements a **Random Forest Regressor** to predict gold prices based on historical market data. Beyond model training and evaluation, it integrates **SHAP (SHapley Additive exPlanations)** to provide interpretable insights into feature contributions, making the model’s predictions transparent and trustworthy. The code includes comprehensive exploratory data analysis (EDA), data preprocessing, model evaluation, and multiple visualisation techniques.
+This project implements a A Non-Volatility-Adaptive Machine Learning (**Random Forest Regressor**) to predict gold prices based on historical market data. Beyond model training and evaluation, it integrates **SHAP (SHapley Additive exPlanations)** to provide interpretable insights into feature contributions, making the model’s predictions transparent and trustworthy. The code includes comprehensive exploratory data analysis (EDA), data preprocessing, model evaluation, and multiple visualisation techniques.
 
 The goal is to demonstrate a complete machine learning pipeline—from raw data to explainable predictions—suitable for financial time series forecasting.
 
@@ -177,6 +177,11 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Kaggle – Gold Price Historical Data](https://www.kaggle.com/datasets) (example).
+- Dataset source: [Investing.com – Gold Price Historical Data](https://www.investing.com/)) (example).
 - SHAP library: [SHAP documentation](https://shap.readthedocs.io/).
 - Inspired by various gold price prediction tutorials and explainable AI practices.
+
+## Contributing 🤝
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+This repository was built with ❤️ by: [Nada Marey](https://github.com/NadaMarei)
