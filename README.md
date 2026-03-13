@@ -177,7 +177,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 🙏 Acknowledgments
 
-- Dataset source: [Investing.com – Gold Price Historical Data](https://www.investing.com/)) (example).
+- Dataset source: [Investing.com – Gold Price Historical Data](https://www.investing.com/).
 - SHAP library: [SHAP documentation](https://shap.readthedocs.io/).
 - Inspired by various gold price prediction tutorials and explainable AI practices.
 
