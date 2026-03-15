@@ -59,7 +59,7 @@ The dataset contains no missing values after preprocessing.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gold-price-prediction.git
+   git clone https://github.com/yourusername/GoldAI-Pro.git
    cd gold-price-prediction
    ```
 
