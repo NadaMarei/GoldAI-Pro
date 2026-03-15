@@ -152,11 +152,10 @@ SHAP provides both local (per-prediction) and global interpretability, making th
 ```
 gold-price-prediction/
 │
-├── gold_price_prediction.py   # Main script
-├── Gold Historical Data.csv    # Dataset (not included in repo)
+├── GoldAIPro.py                # Main script
+├── Gold Historical Data.csv    # Dataset 
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
-└── images/                     # (Optional) Saved plots
 ```
 
 ## 🧪 Dependencies
